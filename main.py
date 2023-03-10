@@ -1,4 +1,4 @@
-a = int(input())
-b = int(input())
-s = a + b
-print (s)
+base = int(input())
+height = int(input())
+area = base*height/2
+print (area)
